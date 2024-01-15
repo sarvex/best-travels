@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#29f056",
+    "statusBar.background": "#0fd73c",
+    "statusBar.border": "#0fd73c",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#0ca72f",
+    "statusBarItem.remoteBackground": "#0fd73c",
+    "statusBarItem.remoteForeground": "#15202b",
+    "tab.activeBorder": "#29f056"
+  },
+  "peacock.color": "#0fd73c",
+  "marquee.widgets.npm-stats.packageNames": ["astro-nomy"]
+}
