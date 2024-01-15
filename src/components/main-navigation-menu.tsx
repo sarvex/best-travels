@@ -31,7 +31,7 @@ export function MainNavigationMenu() {
                   href="/"
                 >
                   <Icons.logo className="size-8" />
-                  <div className="mb-2 mt-3 text-lg font-medium">Astronomy</div>
+                  <div className="mb-2 mt-3 text-lg font-medium">Best Travels</div>
                   <p className="text-sm leading-tight text-muted-foreground">
                     Modern application with differents sections examples built
                     using shadcn/ui.
